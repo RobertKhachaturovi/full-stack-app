@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Shadow of Eternity",
+    "description": "A scientist discovers a portal to a parallel universe where time moves backward.",
+    "coverPhoto": "shadow-of-eternity.jpg",
+    "genre": ["Sci-Fi", "Thriller"],
+    "rating": 8.7,
+    "runtimeInMinutes": 124,
+    "publishYear": "2021-01-01T00:00:00.000Z",
+    "producer": {
+      "id": 101,
+      "fullName": "Christopher Nolan",
+      "shortBio": "Award-winning British-American filmmaker.",
+      "gender": "Male",
+      "country": "UK",
+      "isAlive": true,
+      "dateOfBirth": "1970-07-30T00:00:00.000Z",
+      "moviesProduced": []
+    },
+    "actors": [
+      {
+        "id": 201,
+        "fullName": "John Carter",
+        "shortBio": "Known for action-packed performances.",
+        "gender": "Male",
+        "country": "USA",
+        "isAlive": true,
+        "dateOfBirth": "1985-05-12T00:00:00.000Z",
+        "moviesPlayed": []
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Crimson Horizon",
+    "description": "A group of explorers journey to Mars and uncover a hidden civilization.",
+    "coverPhoto": "crimson-horizon.jpg",
+    "genre": ["Adventure", "Sci-Fi"],
+    "rating": 8.2,
+    "runtimeInMinutes": 132,
+    "publishYear": "2020-01-01T00:00:00.000Z",
+    "producer": {
+      "id": 102,
+      "fullName": "Emma Thompson",
+      "shortBio": "Renowned British producer and writer.",
+      "gender": "Female",
+      "country": "UK",
+      "isAlive": true,
+      "dateOfBirth": "1965-04-15T00:00:00.000Z",
+      "moviesProduced": []
+    },
+    "actors": [
+      {
+        "id": 202,
+        "fullName": "Sophia Martinez",
+        "shortBio": "Award-winning dramatic actress.",
+        "gender": "Female",
+        "country": "Spain",
+        "isAlive": true,
+        "dateOfBirth": "1990-09-08T00:00:00.000Z",
+        "moviesPlayed": []
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Midnight Silence",
+    "description": "A detective investigates mysterious disappearances in a quiet coastal town.",
+    "coverPhoto": "midnight-silence.jpg",
+    "genre": ["Mystery", "Drama"],
+    "rating": 7.9,
+    "runtimeInMinutes": 110,
+    "publishYear": "2019-01-01T00:00:00.000Z",
+    "producer": {
+      "id": 103,
+      "fullName": "David Fincher",
+      "shortBio": "Master of psychological thrillers.",
+      "gender": "Male",
+      "country": "USA",
+      "isAlive": true,
+      "dateOfBirth": "1962-08-28T00:00:00.000Z",
+      "moviesProduced": []
+    },
+    "actors": [
+      {
+        "id": 203,
+        "fullName": "Liam O'Connor",
+        "shortBio": "Known for intense dramatic roles.",
+        "gender": "Male",
+        "country": "Ireland",
+        "isAlive": true,
+        "dateOfBirth": "1988-02-20T00:00:00.000Z",
+        "moviesPlayed": []
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Golden Empire",
+    "description": "A historical epic about the rise and fall of an ancient dynasty.",
+    "coverPhoto": "golden-empire.jpg",
+    "genre": ["History", "Drama"],
+    "rating": 8.5,
+    "runtimeInMinutes": 145,
+    "publishYear": "2018-01-01T00:00:00.000Z",
+    "producer": {
+      "id": 104,
+      "fullName": "Zhang Yimou",
+      "shortBio": "Celebrated Chinese filmmaker.",
+      "gender": "Male",
+      "country": "China",
+      "isAlive": true,
+      "dateOfBirth": "1950-11-14T00:00:00.000Z",
+      "moviesProduced": []
+    },
+    "actors": [
+      {
+        "id": 204,
+        "fullName": "Mei Lin",
+        "shortBio": "Internationally recognized actress.",
+        "gender": "Female",
+        "country": "China",
+        "isAlive": true,
+        "dateOfBirth": "1992-06-18T00:00:00.000Z",
+        "moviesPlayed": []
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Neon Streets",
+    "description": "In a cyberpunk future, a hacker fights against a corrupt mega-corporation.",
+    "coverPhoto": "neon-streets.jpg",
+    "genre": ["Action", "Cyberpunk"],
+    "rating": 8.9,
+    "runtimeInMinutes": 118,
+    "publishYear": "2022-01-01T00:00:00.000Z",
+    "producer": {
+      "id": 105,
+      "fullName": "James Cameron",
+      "shortBio": "Visionary director and producer.",
+      "gender": "Male",
+      "country": "Canada",
+      "isAlive": true,
+      "dateOfBirth": "1954-08-16T00:00:00.000Z",
+      "moviesProduced": []
+    },
+    "actors": [
+      {
+        "id": 205,
+        "fullName": "Ava Johnson",
+        "shortBio": "Rising star in action cinema.",
+        "gender": "Female",
+        "country": "USA",
+        "isAlive": true,
+        "dateOfBirth": "1995-03-11T00:00:00.000Z",
+        "moviesPlayed": []
+      }
+    ]
+  }
+]
